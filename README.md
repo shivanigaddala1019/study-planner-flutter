@@ -19,10 +19,6 @@ A Flutter-based Study Planner application that helps students organize and track
 - Dart
 - Material Design
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
 ## 📂 Project Structure
 
 ```text
