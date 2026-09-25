@@ -1,17 +1,39 @@
-# study_planner
+# 📚 Study Planner App
 
-A new Flutter project.
+A Flutter-based Study Planner application that helps students organize and track their study tasks efficiently.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Add study tasks
+- Subject and topic management
+- Set task priority (High, Medium, Low)
+- Select study dates
+- Mark tasks as completed
+- Track progress with a progress bar
+- Delete completed or unwanted tasks
+- Clean and interactive Flutter UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+(Add screenshots here)
+
+## 📂 Project Structure
+
+```text
+lib/
+ └── main.dart
+```
+
+## ▶️ Run the Project
+
+```bash
+flutter pub get
+flutter run
+```
+
